@@ -7,9 +7,9 @@
 
 <p> My five year old brother is Ethan, my three year old brother is Hunter, and my eaighteen year old sister is paige.</p>
 
-My least favorate food is _**sweet potato**_.
+My least favorate food is _***sweet potato***_.
 ## what I look like
- I have blondish hair, and green eyes
+ I have *blondish* hair, and green eyes
  
  i am about 5'6 1/2 but almost 5'7
  
